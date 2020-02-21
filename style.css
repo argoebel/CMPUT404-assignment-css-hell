@@ -1,0 +1,124 @@
+pre,
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+img {
+  box-shadow: 0 0 10px black;
+}
+
+h1,
+h2,
+h3,
+div.chapter,
+div.sidenote {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: center;
+  text-shadow: 0 0 1px black;
+}
+
+div.fig {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient */
+/* https://www.colourlovers.com/color/FBF3B5/Faded_Paper */
+body {
+  background-color: antiquewhite;
+  background-image: linear-gradient(
+    to left,
+    #fbf3b5,
+    #fbf3b5,
+    antiquewhite,
+    #fbf3b5,
+    #fbf3b5
+  );
+}
+
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_two_columns */
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.toc {
+  text-align: center;
+}
+
+a:any-link {
+  color: black;
+}
+a:hover {
+  color: grey;
+}
+
+div.bookcontent {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: left;
+}
+
+div.poem {
+  text-align: center;
+}
+
+div.figleft {
+  float: left;
+  margin-left: 15%;
+  text-align: center;
+  text-shadow: 0 0 1px black;
+}
+
+div.figcenter {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.figright {
+  float: right;
+  margin-right: 15%;
+  text-align: center;
+  text-shadow: 0 0 1px black;
+}
+
+div.center {
+  text-align: center;
+  align-items: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.unindent {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+div.sidenote {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+div.copyright {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: center;
+}
