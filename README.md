@@ -23,3 +23,11 @@ Code is licensed under the Apache 2.0 license.
 
 - renaming of some div tags in 3.html
 - restructured chapters of 1. html into 2 columns
+
+# Sources
+
+- https://www.w3schools.com/howto/howto_css_sidebar_icons.asp
+- https://www.w3schools.com/css/css3_flexbox.asp
+- https://www.w3schools.com/css/css_max-width.asp
+- https://www.freecodecamp.org/news/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26/
+- https://stackoverflow.com/questions/17558033/text-wrapping-around-a-div
