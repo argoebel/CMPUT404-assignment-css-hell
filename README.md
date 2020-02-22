@@ -21,5 +21,5 @@ Code is licensed under the Apache 2.0 license.
 
 # Edits made to webpages
 
-- renaming of some div tags in html3
-- restructured chapters of html1 into 2 columns
+- renaming of some div tags in 3.html
+- restructured chapters of 1. html into 2 columns
